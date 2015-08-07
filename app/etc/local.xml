@@ -42,7 +42,7 @@
                 <connection>
                     <host><![CDATA[/opt/bitnami/mysql/tmp/mysql.sock]]></host>
                     <username><![CDATA[root]]></username>
-                    <password><![CDATA[MAaNWH2K]]></password>
+                    <password><![CDATA[RGN2xxHy]]></password>
                     <dbname><![CDATA[modever]]></dbname>
                     <initStatements><![CDATA[SET NAMES utf8]]></initStatements>
                     <model><![CDATA[mysql4]]></model>
