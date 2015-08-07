@@ -43,7 +43,7 @@
                     <host><![CDATA[/Applications/magento-1.9.2.0-1/mysql/tmp/mysql.sock]]></host>
                     <username><![CDATA[root]]></username>
                     <password><![CDATA[hinh1234]]></password>
-                    <dbname><![CDATA[modeverdb]]></dbname>
+                    <dbname><![CDATA[modever]]></dbname>
                     <initStatements><![CDATA[SET NAMES utf8]]></initStatements>
                     <model><![CDATA[mysql4]]></model>
                     <type><![CDATA[pdo_mysql]]></type>

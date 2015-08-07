@@ -1,0 +1,5 @@
+<div class="nav-container">
+    <div class="nav-top-title"><div class="icon"><span></span><span></span><span></span></div><a href="#">Navigation</a></div>
+    <ul id="mobile-nav">
+                <li  class="level0 nav-1 first level-top"><a href="http://127.0.0.1:8080/magento/index.php/shop.html?___SID=U"  class="level-top" ><span>SHOP</span></a></li><li  class="level0 nav-2 level-top"><a href="http://127.0.0.1:8080/magento/index.php/new.html?___SID=U"  class="level-top" ><span>NEW</span></a></li><li  class="level0 nav-3 level-top"><a href="http://127.0.0.1:8080/magento/index.php/dresses.html?___SID=U"  class="level-top" ><span>DRESSES</span></a></li><li  class="level0 nav-4 level-top"><a href="http://127.0.0.1:8080/magento/index.php/tops.html?___SID=U"  class="level-top" ><span>TOPS</span></a></li><li  class="level0 nav-5 level-top"><a href="http://127.0.0.1:8080/magento/index.php/bottoms.html?___SID=U"  class="level-top" ><span>BOTTOMS</span></a></li><li  class="level0 nav-6 last level-top"><a href="http://127.0.0.1:8080/magento/index.php/jacket.html?___SID=U"  class="level-top" ><span>JACKETS</span></a></li>    </ul>
+</div>
